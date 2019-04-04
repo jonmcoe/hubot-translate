@@ -1,0 +1,23 @@
+{
+  "name": "hubot-translate",
+  "description": "A Hubot script for translating phrasees between languages",
+  "version": "0.1.0",
+  "main": "./src/translate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonmcoe/hubot-translate.git"
+  },
+  "keywords": [
+    "translate",
+    "hubot",
+    "slack",
+    "slackbot",
+    "yandex"
+  ],
+  "author": "Jon Coe <jonmcoe@gmail.com> (http://github.com/jonmcoe/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonmcoe/hubot-translate/issues"
+  },
+  "homepage": "https://github.com/jonmcoe/hubot-translate"
+}
